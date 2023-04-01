@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  overflow: hidden;
+}
+
+#time {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+button {
+  font-size: 24px;
+  padding: 10px 20px;
+  margin: 0 10px;
+}
+
+.footer {
+  font-size: 1.2em;
+  padding: 10px;
+  float: left;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #2f2f2f;
+  color: #fff;
+}
